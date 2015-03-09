@@ -1,2 +1,6 @@
-# d8test-profile
-D8 Test Profile
+## Information
+
+This is Drupal 8 profile
+
+## How to use
+git clone the repo into profile
